@@ -10,6 +10,7 @@ export async function jsonHandler(request, response) {
   } catch (error) {
     request.body = null;
     console.log(error);
+    
   }
 
   response.setHeader("Content-Type", "application/json");
