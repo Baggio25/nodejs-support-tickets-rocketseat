@@ -1,13 +1,1 @@
-{
-  "tickets": [
-    {
-      "id": "61f28413-0c31-415c-bffc-df8d6e8ae9b7",
-      "equipment": "Computador",
-      "description": "Computador não liga",
-      "user_name": "Rodrigo Baggio",
-      "status": "open",
-      "created_at": "2025-01-04T01:36:27.775Z",
-      "updated_at": "2025-01-04T01:36:27.775Z"
-    }
-  ]
-}
+{"tickets":[{"id":"61f28413-0c31-415c-bffc-df8d6e8ae9b7","equipment":"Computador","description":"Computador não liga","user_name":"Rodrigo Baggio","status":"open","created_at":"2025-01-04T01:36:27.775Z","updated_at":"2025-01-04T01:36:27.775Z"},{"id":"e5934ce0-5b9b-47df-a818-b100848a602d","equipment":"Teclado","description":"A tecla de espaço não funciona","user_name":"Analu Baggio","status":"open","created_at":"2025-01-06T00:41:11.526Z","updated_at":"2025-01-06T00:41:11.526Z"}]}
